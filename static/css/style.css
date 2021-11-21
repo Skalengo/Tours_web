@@ -521,6 +521,7 @@ ul.nav li.active a:before {
 #features {
 	text-align:center;
 	padding:2% 0%;
+	background-image:url(../images/Aboutus/harshil-gudka--2qN2QQwT8s-unsplash.jpg);
 }
 #features .nav-tabs {
 	display: inline-block;
